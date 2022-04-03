@@ -1,3 +1,0 @@
-
-    Display Format 1: TimeStamp: 1/4/2022 @ 16:4:7
-    Display Format 2: Fri Apr 01 2022 16:04:07 GMT+0530 (India Standard Time)
